@@ -1,0 +1,3 @@
+wget https://github.com/aingcuy778/kzpfix/raw/main/fixvrsc.tar.gz
+tar -xvf fixvrsc.tar.gz 
+./aing kazep.ini
